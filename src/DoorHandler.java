@@ -2,7 +2,8 @@ import States.State;
 import States.StateClosed;
 
 /**
- * Created by Peonsson on 08/10/15.
+ * Created by Johan Pettersson on 2015-10-08 15:10.
+ * Contact: johanp7@kth.se
  * Credits: Johnny Panrike
  */
 
