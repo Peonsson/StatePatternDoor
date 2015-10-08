@@ -3,6 +3,7 @@ import States.StateClosed;
 
 /**
  * Created by Peonsson on 08/10/15.
+ * Credits: Johnny Panrike
  */
 
 public class DoorHandler {

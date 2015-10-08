@@ -1,6 +1,6 @@
 /**
  * Created by Peonsson on 08/10/15.
- * credits: Johnny Panrike
+ * Credits: Johnny Panrike
  */
 
 import java.util.*;

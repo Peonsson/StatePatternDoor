@@ -2,6 +2,7 @@ package States;
 
 /**
  * Created by Peonsson on 08/10/15.
+ * Credits: Johnny Panrike
  */
 
 public class StateOpen extends State {
